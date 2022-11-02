@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactflag/static/css/main.28ddb1f0.css",
+    "main.js": "/reactflag/static/js/main.fee8f0c2.js",
+    "static/js/787.69f9ac23.chunk.js": "/reactflag/static/js/787.69f9ac23.chunk.js",
+    "static/media/flag.svg": "/reactflag/static/media/flag.c0fc2a2b87a06e2ea8c66e98afb45f30.svg",
+    "index.html": "/reactflag/index.html",
+    "main.28ddb1f0.css.map": "/reactflag/static/css/main.28ddb1f0.css.map",
+    "main.fee8f0c2.js.map": "/reactflag/static/js/main.fee8f0c2.js.map",
+    "787.69f9ac23.chunk.js.map": "/reactflag/static/js/787.69f9ac23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ddb1f0.css",
+    "static/js/main.fee8f0c2.js"
+  ]
+}
